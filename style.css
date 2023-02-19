@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(247, 245, 245);
+    color: rgb(199, 204, 233);
+    font-weight: bold;
+}
+
+.Myrow {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    align-content: center;
+
+}
+
+.col-sm {
+    margin-top: 15px;
+    text-align: center;
+}
+.cardDog{
+    margin: auto;
+   
+}
+
+
+.container {
+    border: 1px solid white;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.topmargin {
+    margin-top: 10px;
+}
