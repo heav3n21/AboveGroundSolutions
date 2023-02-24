@@ -15,7 +15,7 @@ btnSubmit.addEventListener('click', function () {
 function CP(hours, pay, name) {
     let money = hours * pay
 
-    card.innerHTML =`${name} made $${money} this amount. `
+    card.innerHTML =`${name} made $${money} `
    
     dogCard.style.display = 'flex'
 
